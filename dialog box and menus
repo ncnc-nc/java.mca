@@ -11,9 +11,9 @@ menu.
 setLayout, Right Click on your JDialog-Add From Palette-Swing Controls. 
 9. Write Following Code 
 package assignment8; 
-import javax.swing.*; 
+*********import javax.swing.*; 
 import java.io.*; 
-import java.awt.*; 
+import java.awt.*; **********
 public class NewJFrame extends javax.swing.JFrame { 
 public NewJFrame() { 
 initComponents(); 
